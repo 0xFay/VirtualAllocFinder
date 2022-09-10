@@ -1,0 +1,7 @@
+D:\项目\shellcode\VirtualAllocFinder\bin\x64\Debug\VirtualAllocFinder.exe.config
+D:\项目\shellcode\VirtualAllocFinder\bin\x64\Debug\VirtualAllocFinder.exe
+D:\项目\shellcode\VirtualAllocFinder\bin\x64\Debug\VirtualAllocFinder.pdb
+D:\项目\shellcode\VirtualAllocFinder\obj\x64\Debug\VirtualAllocFinder.csproj.CoreCompileInputs.cache
+D:\项目\shellcode\VirtualAllocFinder\obj\x64\Debug\VirtualAllocFinder.exe
+D:\项目\shellcode\VirtualAllocFinder\obj\x64\Debug\VirtualAllocFinder.pdb
+D:\项目\shellcode\VirtualAllocFinder\obj\x64\Debug\VirtualAllocFinder.csprojAssemblyReference.cache
